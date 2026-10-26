@@ -1,0 +1,25 @@
+# Local secrets and user data
+.env
+.env.*
+!.env.example
+*.token
+*.key
+*.pem
+*.pfx
+*.log
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.db
+data/
+node_modules/
+bin/
+obj/
+release/
+releases/
+.vs/
+.vscode/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
